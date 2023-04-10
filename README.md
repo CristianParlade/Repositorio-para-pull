@@ -1,2 +1,2 @@
-# Repositorio-para-pull-editado-desde-github
-vamos a aprender a obtener los datos del repositorio remoto de github
+# Repositorio-para-fetch-editado-desde-github
+este cambio es para porar git fetch 
